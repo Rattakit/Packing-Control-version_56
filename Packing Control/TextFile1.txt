@@ -1,0 +1,152 @@
+﻿NCF110ST/CT    |11323-KWZ-901    |GASKET,OIL COOLERCASE(S-TYPE) |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+MD             |12209-GB4-682    |SEAL,VALVE STEM               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+FS125/M        |12209-KGH-900    |SEAL,VALVE STEM               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+FS125/M        |12209-KGH-901    |SEAL,VALVE STEM               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+GX160/200      |12209-ZH8-003    |SEAL,VALVE STEM               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+G150K1         |12209-887-W01    |SEAL,VALVE STEM               |THAILAND                      |00001|00010|00200|D4P066         |D4P066         |D4P066         |
+NCB150M        |12391-KPP-901    |GASKET,HEAD COVER             |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+ANC110BDT      |12391-KVB-900    |GASKET,HEAD COVER             |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NZP/PS/PC      |14100-KAN-T00    |REED VALVE ASSY               |THAILAND                      |00001|00000|00060|D4P066         |               |D4P066         |
+LS             |14100-KBA-901    |VALVE ASSY REED               |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+LS125R         |14100-KBA-930    |REED VALVE ASSY               |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+NZ125R         |14100-KBP-901    |VALVE ASSY REED               |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+NT110R,S       |14100-KET-890    |REED VALVE ASSY               |THAILAND                      |00001|00000|00060|D4P066         |               |D4P066         |
+NT110V,MV      |14100-KET-900    |VALVE ASSY,REED               |THAILAND                      |00001|00000|00060|D4P066         |               |D4P066         |
+TA150          |14100-KFE-700    |REED VALVE,ASSY               |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+TA150          |14100-KFE-701    |REED VALVE,ASSY               |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+NSR150SP       |14100-KW6-840    |VALVE ASSY,REED               |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+NS150          |14100-KW6-901    |VLV.ASSY,REED                 |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+NOVA           |14100-KW7-900    |VLV.COMP,REED                 |THAILAND                      |00001|00000|00060|D4P066         |               |D4P066         |
+NOVA           |14100-KW7-901    |VLV.COMP,REED                 |THAILAND                      |00001|00000|00060|D4P066         |               |D4P066         |
+NZR            |14100-KW7-931    |VLV.COMP,REED                 |THAILAND                      |00001|00000|00060|D4P066         |               |D4P066         |
+NZP/PS/PC      |14111-KAN-T00    |REED VALVE                    |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+LS             |14111-KBA-901    |REED VALVE ONLY               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+NT110R,S       |14111-KET-890    |REED VALVE                    |THAILAND                      |00001|00010|00000|D4P109         |D4P109         |               |
+NSR150SP       |14111-KW6-840    |REED VALVE ONLY               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NZR            |14111-KW7-931    |REED VALVE                    |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NS150          |14111-KZ4-003    |REED VALVE ONLY               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NZP/PS/PC      |14121-KAN-T00    |STPR,REED VALVE               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+LS             |14121-KBA-901    |STPR,REED VALVE               |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NT110R,S       |14121-KET-890    |STPR,REED VALVE               |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+TA150          |14121-KFE-700    |STPR,REED VALVE               |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+TA150          |14121-KFE-701    |STPR,REED VALVE               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NSR150SP       |14121-KW6-840    |STOPPER,REED VALVE            |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NS150          |14121-KW6-901    |STPR,REED VALVE               |THAILAND                      |00001|00000|00000|               |               |               |
+NZR            |14121-KW7-931    |STPR,REED VALVE               |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+H4013          |15131-ZE9-003    |O-RING,PUMP COVER             |THAILAND                      |00001|00000|00000|               |               |               |
+NF125C/MC      |16200-KPH-700    |INSULATOR ASSY,THROTTLE BODY  |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF125C/MC      |16200-KPH-701    |INSULATOR ASSY,TH             |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+ANF125(7)EU    |16200-KTM-D20    |INSULATOR COMP,TH             |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+CF110C         |16200-KTM-D21    |INSULATOR COMP,TH             |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF110ST        |16200-KWB-600    |INSULATOR ASSY,TH             |THAILAND                      |00001|00010|00100|D4P066         |D4P066         |D4P066         |
+NF110K/TM      |16200-KWB-601    |INSULATOR ASSY,TH             |THAILAND                      |00001|00010|00100|D4P066         |D4P066         |D4P066         |
+TA200(C)       |16210-KPK-940    |INSULATOR,CARB.               |THAILAND                      |00001|00000|00050|D4P066         |               |D4P066         |
+CBR125RW7(EU)  |16210-KTY-G30    |INSULATOR,CARB.               |THAILAND                      |00001|00010|00100|D4P066         |D4P066         |D4P066         |
+CBR125RW6      |16210-KTY-611    |INSULATOR,CARBURETOR          |THAILAND                      |00001|00010|00100|D4P066         |D4P066         |D4P066         |
+FS125/M        |16211-KGH-900    |INSULATOR,CARB.               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+FS125/M        |16211-KGH-901    |INSULATOR,CARB.               |THAILAND                      |00001|00010|00100|D4P066         |D4P066         |D4P066         |
+CS150R         |16211-KPP-T01    |INSULATOR,CARB                |THAILAND                      |     |     |     |D4P066         |D4P066         |D4P066         |
+NCB150M        |16211-KPP-901    |INSULATOR,CARB                |THAILAND                      |00001|00010|00100|D4P066         |D4P066         |D4P066         |
+CBR125RW7(EU)  |16211-KTY-D30    |INSULATOR,CARB.               |THAILAND                      |00001|00010|00150|D4P066         |D4P066         |D4P066         |
+NF125C/MC      |16215-KPH-700    |JOINT,PB                      |THAILAND                      |00001|00000|00000|D4P066         |               |               |
+ANC110BDT      |17110-KVB-900    |PIPE COMP,INLET               |THAILAND                      |00001|00000|00050|D4P066         |               |D4P066         |
+ANC110AS       |17110-KVG-900    |PIPE COMP,INLET               |THAILAND                      |00001|00000|00036|D4P066         |               |D4P066         |
+KT110B/C/D     |17112-KYT-901    |INSULATOR,THROTTL             |THAILAND                      |00001|00000|00000|               |               |               |
+NF110ST        |17572-KWB-600    |O-RING,FUEL PUMP              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NZ125TS(D)     |18601-KBP-770    |REED VALVE COMP               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NZ125TS(E)     |18601-KBP-771    |REED VALVE COMP               |THAILAND                      |00001|00010|00200|D4P066         |D4P066         |D4P066         |
+FS125/M        |18601-KGB-611    |REED VALVE COMP               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+LS125D2Y       |18601-KGC-901    |REED VALVE COMP               |THAILAND                      |     |     |     |D4P066         |D4P066         |               |
+NCB150M        |18601-MBA-J51    |REED VALVE COMP               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NC110CD        |19625-KVY-900    |SEAL,SHROUD                   |THAILAND                      |00001|00000|00000|               |               |               |
+DREAM          |51425-GN5-901    |DUST SEAL                     |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NT110R,S       |90015-KAN-870    |SCREW WASH,M3X8               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+DREAM          |90753-GK4-003    |OIL SL,27X40X6                |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+KB             |90753-029-003    |OIL SEAL 27X40X6              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+JXS4           |90755-229-003    |OIL SL,21X37X7                |THAILAND                      |00001|00010|00150|D4P066         |D4P066         |D4P066         |
+TH             |90755-229-005    |OIL SEAL 21X37X7              |THAILAND                      |     |     |     |D4P066         |D4P066         |D4P066         |
+NC110CD        |91201-GCC-771    |OIL SEAL 16X26X7              |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+NS150          |91201-KM1-005    |OILSL,10X20X5                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NCF110ST/CT    |91201-KWZ-901    |OIL SEAL,30X42X5              |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NCF110ST       |91201-KWZ-902    |OIL SEAL,30X42X5              |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NS150          |91201-KW6-901    |OILSL,24X37X5                 |THAILAND                      |00001|00010|00250|D4P066         |D4P066         |D4P066         |
+NS150          |91201-PA9-004    |OILSL,9X18X7                  |THAILAND                      |00001|00010|00400|D4P066         |D4P066         |D4P066         |
+MTX            |91201-030-033    |OIL SL,20X34X7                |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NSR150SP       |91201-196-003    |OIL SEAL,22X32X7              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NOVA           |91201-415-013    |OIL SL,17X28X7                |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+ANC110BDT      |91201-434-003    |OIL SEAL,14X20X3              |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NS150          |91201-951-003    |OILSL,12X18X3                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+MD             |91202-GB4-692    |OIL SL,18.9X28X5              |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+MD             |91202-GE0-015    |OIL SEAL 18.9X5               |THAILAND                      |00001|00000|00000|               |               |               |
+ZN110/C        |91202-KFL-841    |OIL SEAL 13.8X24X5            |THAILAND                      |00001|00010|00400|D4P066         |D4P066         |D4P066         |
+NF110/M        |91202-KFL-850    |OIL SEAL,13.8X24X5            |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF110/M        |91202-KFL-851    |OIL SEAL 13.8X24X5            |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+LEAD           |91202-KJ9-003    |OIL SL,20X32X6                |THAILAND                      |00001|00010|00200|D4P066         |D4P066         |D4P066         |
+NF100S/S       |91202-KRS-970    |OIL SEAL,13.8X24X5            |THAILAND                      |00001|00010|00400|D4P066         |D4P066         |D4P066         |
+NF100MS/S      |91202-KRS-971    |OIL SEAL,13.8X24X5            |THAILAND                      |00001|00010|00400|D4P066         |D4P066         |D4P066         |
+ANF100C/T(B)   |91202-KTL-741    |OIL SEAL,19X30X5              |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+NCF110ST/CT    |91202-KWZ-901    |OIL SEAL,24.8X34X7            |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+G35            |91202-ZE6-013    |OIL SEAL,22X35X6              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+GX120          |91202-Z0S-801    |OIL SEAL,22X35X6              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF100          |91202-098-910    |WASHER 10MM.                  |THAILAND                      |     |     |     |D4P066         |D4P066         |               |
+KB             |91202-302-010    |OILSL,13.8X24X5               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+MD             |91203-GB5-761    |OIL SL,17X29X5                |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+MD             |91203-GB5-762    |OIL SL, 17X29X5               |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NF100S/S       |91203-KRS-970    |OIL SEAL 23X34X5 (SD)         |THAILAND                      |     |     |     |D4P066         |D4P066         |D4P066         |
+WW125          |91203-KWN-901    |OIL SEAL,20X32X6              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NZR            |91203-750-003    |OIL SL,12X18X4                |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+GX340K1        |91203-952-771    |OILSL,8X14X5                  |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF110ST        |91204-KWB-601    |OIL SEAL,17X29X5 92.3X5.5     |THAILAND                      |00001|00010|00250|D4P066         |D4P066         |D4P066         |
+TG             |91204-MC7-003    |OIL SL,16X28X7                |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+HRA216         |91205-KF0-003    |OILSL,12X20X5                 |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+CD100(PA)      |91205-350-003    |OIL SEAL,6X25X6               |THAILAND                      |00001|00010|00400|D4P066         |D4P066         |D4P066         |
+MTX            |91206-KE1-003    |OIL SL,32X44X8                |THAILAND                      |00001|00010|00150|D4P066         |D4P066         |D4P066         |
+MD             |91208-KB4-671    |OILSL,11.6X24X10              |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+ANF125/M       |91208-KPH-900    |OIL SEAL,11.6X24X10           |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NF100S/D       |91208-KPH-901    |OIL SEAL,11.6X24X10           |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NF110ST        |91208-KWB-601    |OIL SEAL,11.6X22              |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+MTX            |91209-612-000    |OILSL, 12X22X7                |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+LS             |91209-612-003    |OILSL,12X22X7                 |THAILAND                      |00001|00010|00400|D4P066         |D4P066         |D4P066         |
+ANC110BDT      |91211-PE9-003    |OIL SEAL,16X26X6              |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+FS125/M        |91216-KGH-901    |OIL SEAL 20X37X7              |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+GXV120         |91231-891-003    |OILSL,6X11X4                  |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+DREAM          |91251-GN5-901    |DUST SEAL                     |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+ANF125/M/D/MD  |91251-KPH-901    |DUST SEAL,21X37X7             |THAILAND                      |00001|00010|00200|D4P066         |D4P066         |D4P066         |
+NF110ST        |91251-KWB-601    |DUST SEAL,42X54X7             |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NSR150RRW      |91251-KW6-671    |DUST SEAL 24X31X5.5           |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+CBX750         |91252-MC7-003    |DSTSL,22X42X7                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+DREAM          |91255-GN5-901    |OIL SEAL                      |THAILAND                      |00001|00010|00200|D4P066         |D4P066         |D4P066         |
+ANC110BDT      |91255-KVB-902    |OIL SEAL,29X44X7              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+CB125K3/5      |91256-096-651    |OIL SEAL                      |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+TG             |91257-230-003    |OIL SEAL 28X42X7              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NOVA           |91258-410-013    |DUSTSL,40X50X5                |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+ANC110BDT      |91301-GR0-004    |O-RING,15.2X1.5               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+WW125          |91301-KRJ-901    |O-RING,29X2                   |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+ANC110BDT      |91301-KVB-900    |O-RING,12.5X2.4               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+NSRR           |91301-KW6-961    |RING TMST.CO.SL.              |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+KB             |91301-035-003    |O-RING 107X2                  |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+ANC110BDT      |91301-053-000    |O-RING 7.5X1.5                |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+G40/GX620      |91301-805-000    |O-RNG,26X2.7 DIA              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF100/M        |91302-KEV-900    |O-RING 30.8X3                 |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+NCF110ST/CT    |91302-KWZ-901    |O-RING,18.5X1.9               |THAILAND                      |00001|00010|00300|D4P066         |D4P066         |D4P066         |
+GX340          |91302-ZE9-003    |O-RNG 11.8X2.4                |THAILAND                      |     |     |     |D4P066         |D4P066         |D4P066         |
+MD             |91302-001-020    |O-RING  30.8MM                |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+               |91303-HA0-003    |O-RING 11X1.9                 |THAILAND                      |00001|00000|00000|               |               |               |
+WW125          |91303-KF0-003    |O-RING,14.8X2.4               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+ZN125/C/M      |91304-KPG-T00    |O-RING,28X2.4                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF125C/MC      |91304-KPH-700    |O-RING,29X2.4                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+TA200          |91304-704-000    |O RING, 42M/M                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+ANF125         |91305-KPH-900    |O-RING 19.4X2.3               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+TG             |91305-MC7-000    |O-RING 39.5X5                 |THAILAND                      |00001|00000|00000|               |               |               |
+KB             |91305-028-158    |O-RING 9.0X1.6                |THAILAND                      |00001|00010|01000|D4P066         |D4P066         |D4P066         |
+CBX650         |91307-639-000    |O-RING 64.5X2                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NC110BK        |91308-GFM-900    |O-RING,25.5X1.9               |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF100/M        |91310-KE8-003    |O-RING 21.5X2                 |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+NF100          |91317-GBG-900    |O-RING 6X1.7                  |THAILAND                      |     |     |     |D4P066         |D4P066         |               |
+CS150R         |91352-KSP-900    |O-RING,51X2                   |THAILAND                      |     |     |     |D4P066         |D4P066         |               |
+C100P/MP       |91356-GM0-003    |O RING                        |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+FS125/M        |91356-KGH-900    |O-RING,30MM                   |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+FS125/M        |91356-KGH-901    |O-RING,30MM                   |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+ANF125/M       |91372-KPH-900    |O-RING,TAPP ADJ               |THAILAND                      |00001|00010|00500|D4P066         |D4P066         |D4P066         |
+NZ125TS(E)     |93892-03008-08   |SCREW-WASHER,3X8              |THAILAND                      |00001|00010|00000|D4P066         |D4P066         |               |
+

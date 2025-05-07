@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{10514001-5D16-4CF3-BEF6-AA2D26C7836F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Packing_Control</RootNamespace>
+    <AssemblyName>Packing Control</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="office, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Authorization.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="Export.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Authenticate\frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Authenticate\frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Master\frmGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Master\frmGroup.Designer.cs">
+      <DependentUpon>frmGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Master\frmImportPartMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Master\frmImportPartMaster.Designer.cs">
+      <DependentUpon>frmImportPartMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Master\frmPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Master\frmPermission.Designer.cs">
+      <DependentUpon>frmPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Master\frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Master\frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Report\frmPrintllabelReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Report\frmPrintllabelReport.Designer.cs">
+      <DependentUpon>frmPrintllabelReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\FormBase\BindSource.cs" />
+    <Compile Include="FormAll\FormBase\frmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\FormBase\frmBase.Designer.cs">
+      <DependentUpon>frmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\FormBase\frmBaseMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\FormBase\frmBaseMaster.Designer.cs">
+      <DependentUpon>frmBaseMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\FormBase\frmBaseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\FormBase\frmBaseReport.Designer.cs">
+      <DependentUpon>frmBaseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\FormBase\frmBaseTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\FormBase\frmBaseTransaction.Designer.cs">
+      <DependentUpon>frmBaseTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Master\frmLabelType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Master\frmLabelType.Designer.cs">
+      <DependentUpon>frmLabelType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Master\frmPartMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Master\frmPartMaster.Designer.cs">
+      <DependentUpon>frmPartMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAll\Transaction\GI\frmPrintLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAll\Transaction\GI\frmPrintLabel.Designer.cs">
+      <DependentUpon>frmPrintLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Authenticate\frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\FormBase\frmBase.resx">
+      <DependentUpon>frmBase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\FormBase\frmBaseMaster.resx">
+      <DependentUpon>frmBaseMaster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Master\frmGroup.resx">
+      <DependentUpon>frmGroup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Master\frmImportPartMaster.resx">
+      <DependentUpon>frmImportPartMaster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Master\frmLabelType.resx">
+      <DependentUpon>frmLabelType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Master\frmPartMaster.resx">
+      <DependentUpon>frmPartMaster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Master\frmPermission.resx">
+      <DependentUpon>frmPermission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Master\frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Report\frmPrintllabelReport.resx">
+      <DependentUpon>frmPrintllabelReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAll\Transaction\GI\frmPrintLabel.resx">
+      <DependentUpon>frmPrintLabel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearpink.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gred.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microsoft_Excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preview.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preview_dgv.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preview_doc.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preview_doc2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printing.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrintingPreview.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OGA.Helper\OGA.Helper.csproj">
+      <Project>{E677BB49-803F-44AB-84CD-F1A8B425AE1C}</Project>
+      <Name>OGA.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OGA.Packing.BLL\OGA.Packing.BLL.csproj">
+      <Project>{A3AD5B8F-45BD-454A-B738-4CFE5F0636E3}</Project>
+      <Name>OGA.Packing.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OGA.Picking.DAL\OGA.Packing.DAL.csproj">
+      <Project>{832257e9-b862-4238-8864-d7232c058f2b}</Project>
+      <Name>OGA.Packing.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OGA.Picking.Entity\OGA.Packing.Entity.csproj">
+      <Project>{96C8DD22-3FA2-4FD0-A442-0E7979285D11}</Project>
+      <Name>OGA.Packing.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrownFolder.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Openfile.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barcode2D.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer32x32.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barcode1D24x24.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hardware32x32.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print14x14.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print24x24.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calc128x128.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\px6i.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QRCode135.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Openfile.jpeg24.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Openfile48.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ogaicon.ico" />
+    <Content Include="TextFile1.txt" />
+    <None Include="Resources\Be Downloads.ico" />
+    <None Include="Resources\ADMIN.JPG" />
+    <None Include="Resources\Be Users.ico" />
+    <None Include="Resources\Simple Docs.ico" />
+    <None Include="Resources\Preview48x48.jpeg" />
+    <None Include="Resources\Excel32x32.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Helper\" />
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
